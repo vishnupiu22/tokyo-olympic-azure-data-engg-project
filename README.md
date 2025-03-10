@@ -37,7 +37,7 @@ Raw datasets were uploaded to Azure Data Lake Storage Gen2.
 
 Azure Data Factory was used to automate data ingestion.
 
-2. Data Transformation
+2. Data Transformation ###only some of the transformations are showed in the files.
 
 Azure Databricks was used for data cleaning, filtering, and transformation.
 
